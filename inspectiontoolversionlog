@@ -1,0 +1,3 @@
+//v1.2 - PATCH: Fixed glitch where storage would not save when the save button would click, added CTRL + 1 to open and close submenu
+//v1.1 - PATCH: Fixed glitch where it would check random locations
+//v1.0 - MAJOR UPDATE: Added Menu and Fuctions
